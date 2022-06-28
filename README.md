@@ -24,4 +24,4 @@ Most of the functions are performed through Pandas and Numpy. Further, I've used
 
 ## Clustering
 - Contains
-  - Clustering via PCA
+  - K-Means Clustering
