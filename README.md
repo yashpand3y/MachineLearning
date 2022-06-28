@@ -1,5 +1,6 @@
 # MachineLearning
-Machine Learning Models I created with datasets provided
+Machine Learning Models I created with datasets either referenced from python libraries or attached in respective directory
+Most of the functions are performed through Pandas and Numpy. Further, I've used SKLearn library to cross-reference my results (between the algorithm I implemented, and the one available in the library)
 
 ## Regression
 - Contains
